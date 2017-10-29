@@ -2,4 +2,7 @@ hi this is my first experience with git commandline interface..
 
 i have had a repository since 2015
 
-test update on 29th 9.01AM
+test update on 29th 9.01AM (updated in github,pulled by terminal)
+
+
+push 2 ..on 29th oct 9.08AM from terminal
